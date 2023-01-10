@@ -1,5 +1,9 @@
-a {
+  a {
     color: white
+  }
+
+  .profile-picture{
+    max-width: 35vh; 
   }
 
   h2{
