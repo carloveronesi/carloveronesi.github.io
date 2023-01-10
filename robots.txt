@@ -2,3 +2,4 @@ User-Agent: *
 Disallow: 
 
 Sitemap: https://carloveronesi.it/sitemap.xml
+Sitemap: https://carloveronesi.it/image-sitemap.xml
