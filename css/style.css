@@ -3,7 +3,8 @@
   }
 
   .profile-picture{
-    max-width: 35vh; 
+    width: 35vh;
+    height: 35vh;
   }
 
   h2{
