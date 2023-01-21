@@ -2,6 +2,10 @@
     color: white
   }
 
+  a:link {
+    text-decoration: none;
+  }
+
   .profile-picture{
     width: 35vh;
     height: 35vh;
